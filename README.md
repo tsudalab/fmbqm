@@ -1,3 +1,8 @@
+> CAUTION!!!
+>
+> The `fmbqm` library is renamed to `fmqa` and has been moved to https://github.com/tsudalab/fmqa .
+> This repository will be no longer updated.
+
 # fmbqm
 The fmbqm package provides a trainable binary quadratic model `FMBQM`.
 In combination with annealing solvers, it enables optimization of
